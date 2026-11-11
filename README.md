@@ -5,7 +5,7 @@ Every retired instruction is compared on **16 RVFI fields** against an independe
 **randomised-latency memory BFM** stresses the bus interface. The testbench's own quality is measured with
 **mutation testing**: 13 realistic bugs are planted in the RTL, and the testbench must find every one.
 
-![regression](../../actions/workflows/regression.yml/badge.svg)
+[![regression](https://github.com/angelinemalarvizhi/picorv32-rvfi-verification/actions/workflows/regression.yml/badge.svg)](https://github.com/angelinemalarvizhi/picorv32-rvfi-verification/actions)
 
 ## Environment
 ```
